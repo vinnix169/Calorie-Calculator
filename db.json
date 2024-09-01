@@ -1,0 +1,507 @@
+{
+  "foods": [
+    {
+      "id": "2",
+      "name": "Grilled Chicken Breast",
+      "calories": 165,
+      "serving": 100,
+      "fat": 3.6,
+      "carb": 0,
+      "protein": 31
+    },
+    {
+      "id": "3",
+      "name": "Salmon Fillet",
+      "calories": 206,
+      "serving": 100,
+      "fat": 13.4,
+      "carb": 0,
+      "protein": 20.4
+    },
+    {
+      "id": "4",
+      "name": "Brown Rice",
+      "calories": 111,
+      "serving": 100,
+      "fat": 0.9,
+      "carb": 23.5,
+      "protein": 2.6
+    },
+    {
+      "id": "5",
+      "name": "Avocado",
+      "calories": 160,
+      "serving": 100,
+      "fat": 15,
+      "carb": 9,
+      "protein": 2
+    },
+    {
+      "id": "6",
+      "name": "Greek Yogurt",
+      "calories": 59,
+      "serving": 100,
+      "fat": 0.4,
+      "carb": 3.6,
+      "protein": 10
+    },
+    {
+      "id": "7",
+      "name": "Spinach",
+      "calories": 23,
+      "serving": 100,
+      "fat": 0.4,
+      "carb": 3.6,
+      "protein": 2.9
+    },
+    {
+      "id": "8",
+      "name": "Banana",
+      "calories": 89,
+      "serving": 100,
+      "fat": 0.3,
+      "carb": 22.8,
+      "protein": 1.1
+    },
+    {
+      "id": "9",
+      "name": "Whole Wheat Bread",
+      "calories": 247,
+      "serving": 100,
+      "fat": 2.7,
+      "carb": 49,
+      "protein": 9.4
+    },
+    {
+      "id": "10",
+      "name": "Almonds",
+      "calories": 579,
+      "serving": 100,
+      "fat": 49.9,
+      "carb": 21.7,
+      "protein": 21.2
+    },
+    {
+      "id": "11",
+      "name": "Broccoli",
+      "calories": 34,
+      "serving": 100,
+      "fat": 0.4,
+      "carb": 6.6,
+      "protein": 2.8
+    },
+    {
+      "id": "12",
+      "name": "Egg (Boiled)",
+      "calories": 155,
+      "serving": 100,
+      "fat": 11,
+      "carb": 1.1,
+      "protein": 13
+    },
+    {
+      "id": "13",
+      "name": "Oatmeal",
+      "calories": 68,
+      "serving": 100,
+      "fat": 1.4,
+      "carb": 12.2,
+      "protein": 2.4
+    },
+    {
+      "id": "14",
+      "name": "Grilled Steak",
+      "calories": 271,
+      "serving": 100,
+      "fat": 17,
+      "carb": 0,
+      "protein": 27
+    },
+    {
+      "id": "15",
+      "name": "Quinoa",
+      "calories": 120,
+      "serving": 100,
+      "fat": 1.9,
+      "carb": 21.3,
+      "protein": 4.4
+    },
+    {
+      "id": "16",
+      "name": "Cottage Cheese",
+      "calories": 98,
+      "serving": 100,
+      "fat": 4.3,
+      "carb": 3.4,
+      "protein": 11
+    },
+    {
+      "id": "17",
+      "name": "Sweet Potato",
+      "calories": 86,
+      "serving": 100,
+      "fat": 0.1,
+      "carb": 20.1,
+      "protein": 1.6
+    },
+    {
+      "id": "18",
+      "name": "Peanut Butter",
+      "calories": 588,
+      "serving": 100,
+      "fat": 50,
+      "carb": 20,
+      "protein": 25
+    },
+    {
+      "id": "19",
+      "name": "Tuna (Canned in Water)",
+      "calories": 91,
+      "serving": 100,
+      "fat": 0.7,
+      "carb": 0,
+      "protein": 20.5
+    },
+    {
+      "id": "20",
+      "name": "Black Beans",
+      "calories": 339,
+      "serving": 100,
+      "fat": 1.4,
+      "carb": 62,
+      "protein": 21
+    },
+    {
+      "id": "21",
+      "name": "Cheddar Cheese",
+      "calories": 402,
+      "serving": 100,
+      "fat": 33.1,
+      "carb": 1.3,
+      "protein": 25
+    },
+    {
+      "id": "22",
+      "name": "Apple",
+      "calories": 52,
+      "serving": 100,
+      "fat": 0.2,
+      "carb": 14,
+      "protein": 0.3
+    },
+    {
+      "id": "23",
+      "name": "White Rice",
+      "calories": 130,
+      "serving": 100,
+      "fat": 0.3,
+      "carb": 28.7,
+      "protein": 2.7
+    },
+    {
+      "id": "24",
+      "name": "Chicken Thigh (Roasted)",
+      "calories": 209,
+      "serving": 100,
+      "fat": 11.8,
+      "carb": 0,
+      "protein": 24.6
+    },
+    {
+      "id": "25",
+      "name": "Hummus",
+      "calories": 177,
+      "serving": 100,
+      "fat": 9.7,
+      "carb": 20.2,
+      "protein": 5.5
+    },
+    {
+      "id": "26",
+      "name": "Green Beans",
+      "calories": 31,
+      "serving": 100,
+      "fat": 0.2,
+      "carb": 6.9,
+      "protein": 1.8
+    },
+    {
+      "id": "27",
+      "name": "Orange",
+      "calories": 47,
+      "serving": 100,
+      "fat": 0.1,
+      "carb": 11.8,
+      "protein": 0.9
+    },
+    {
+      "id": "28",
+      "name": "Pasta (Cooked)",
+      "calories": 158,
+      "serving": 100,
+      "fat": 1.1,
+      "carb": 31.2,
+      "protein": 5.8
+    },
+    {
+      "id": "29",
+      "name": "Cauliflower",
+      "calories": 25,
+      "serving": 100,
+      "fat": 0.3,
+      "carb": 4.9,
+      "protein": 1.9
+    },
+    {
+      "id": "30",
+      "name": "Milk (Whole)",
+      "calories": 61,
+      "serving": 100,
+      "fat": 3.3,
+      "carb": 4.7,
+      "protein": 3.2
+    },
+    {
+      "id": "31",
+      "name": "Tofu",
+      "calories": 76,
+      "serving": 100,
+      "fat": 4.8,
+      "carb": 1.9,
+      "protein": 8.1
+    },
+    {
+      "id": "32",
+      "name": "Roasted Cauliflower",
+      "calories": 25,
+      "serving": 100,
+      "fat": 0.3,
+      "carb": 4.9,
+      "protein": 1.9
+    },
+    {
+      "id": "33",
+      "name": "Low-Fat Milk",
+      "calories": 61,
+      "serving": 100,
+      "fat": 1,
+      "carb": 4.7,
+      "protein": 3.2
+    },
+    {
+      "id": "34",
+      "name": "Marinated Tofu",
+      "calories": 76,
+      "serving": 100,
+      "fat": 4.8,
+      "carb": 1.9,
+      "protein": 8.1
+    },
+    {
+      "id": "35",
+      "name": "Banana Smoothie",
+      "calories": 89,
+      "serving": 100,
+      "fat": 0.3,
+      "carb": 22.8,
+      "protein": 1.1
+    },
+    {
+      "id": "36",
+      "name": "Scrambled Eggs",
+      "calories": 155,
+      "serving": 100,
+      "fat": 11,
+      "carb": 1.1,
+      "protein": 13
+    },
+    {
+      "id": "37",
+      "name": "Roasted Chicken Thigh",
+      "calories": 209,
+      "serving": 100,
+      "fat": 11.8,
+      "carb": 0,
+      "protein": 24.6
+    },
+    {
+      "id": "38",
+      "name": "Hummus Dip",
+      "calories": 177,
+      "serving": 100,
+      "fat": 9.7,
+      "carb": 20.2,
+      "protein": 5.5
+    },
+    {
+      "id": "39",
+      "name": "Green Bean Casserole",
+      "calories": 31,
+      "serving": 100,
+      "fat": 0.2,
+      "carb": 6.9,
+      "protein": 1.8
+    },
+    {
+      "id": "40",
+      "name": "Orange Juice",
+      "calories": 47,
+      "serving": 100,
+      "fat": 0.1,
+      "carb": 11.8,
+      "protein": 0.9
+    },
+    {
+      "id": "41",
+      "name": "Whole Grain Bread",
+      "calories": 247,
+      "serving": 100,
+      "fat": 2.7,
+      "carb": 49,
+      "protein": 9.4
+    },
+    {
+      "id": "42",
+      "name": "Avocado Toast",
+      "calories": 160,
+      "serving": 100,
+      "fat": 15,
+      "carb": 9,
+      "protein": 2
+    },
+    {
+      "id": "43",
+      "name": "Steamed Spinach",
+      "calories": 23,
+      "serving": 100,
+      "fat": 0.4,
+      "carb": 3.6,
+      "protein": 2.9
+    },
+    {
+      "id": "44",
+      "name": "Roasted Almonds",
+      "calories": 579,
+      "serving": 100,
+      "fat": 49.9,
+      "carb": 21.7,
+      "protein": 21.2
+    },
+    {
+      "id": "45",
+      "name": "Cheddar Cheese Slices",
+      "calories": 402,
+      "serving": 100,
+      "fat": 33.1,
+      "carb": 1.3,
+      "protein": 25
+    },
+    {
+      "id": "46",
+      "name": "Boiled Eggs",
+      "calories": 155,
+      "serving": 100,
+      "fat": 11,
+      "carb": 1.1,
+      "protein": 13
+    },
+    {
+      "id": "47",
+      "name": "Vanilla Yogurt",
+      "calories": 59,
+      "serving": 100,
+      "fat": 0.4,
+      "carb": 3.6,
+      "protein": 10
+    },
+    {
+      "id": "48",
+      "name": "Baked Potato",
+      "calories": 86,
+      "serving": 100,
+      "fat": 0.1,
+      "carb": 20.1,
+      "protein": 1.6
+    },
+    {
+      "id": "49",
+      "name": "Peanut Butter Sandwich",
+      "calories": 588,
+      "serving": 100,
+      "fat": 50,
+      "carb": 20,
+      "protein": 25
+    },
+    {
+      "id": "50",
+      "name": "Canned Tuna Salad",
+      "calories": 91,
+      "serving": 100,
+      "fat": 0.7,
+      "carb": 0,
+      "protein": 20.5
+    },
+    {
+      "id": "51",
+      "name": "Black Bean Burrito",
+      "calories": 339,
+      "serving": 100,
+      "fat": 1.4,
+      "carb": 62,
+      "protein": 21
+    },
+    {
+      "id": "52",
+      "name": "Sliced Apple",
+      "calories": 52,
+      "serving": 100,
+      "fat": 0.2,
+      "carb": 14,
+      "protein": 0.3
+    },
+    {
+      "id": "53",
+      "name": "White Rice Pilaf",
+      "calories": 130,
+      "serving": 100,
+      "fat": 0.3,
+      "carb": 28.7,
+      "protein": 2.7
+    },
+    {
+      "id": "54",
+      "name": "Grilled Steak Salad",
+      "calories": 271,
+      "serving": 100,
+      "fat": 17,
+      "carb": 0,
+      "protein": 27
+    },
+    {
+      "id": "55",
+      "name": "Quinoa Bowl",
+      "calories": 120,
+      "serving": 100,
+      "fat": 1.9,
+      "carb": 21.3,
+      "protein": 4.4
+    },
+    {
+      "id": "56",
+      "name": "Cottage Cheese Snack",
+      "calories": 98,
+      "serving": 100,
+      "fat": 4.3,
+      "carb": 3.4,
+      "protein": 11
+    }
+  ],
+  "userFood": [],
+  "userData": {
+    "age": "22",
+    "weight": "76",
+    "height": "167",
+    "gender": "female",
+    "activityLevel": 4
+  }
+}
